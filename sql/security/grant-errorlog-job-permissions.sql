@@ -1,4 +1,4 @@
--- ============================================================================
+ -- ============================================================================
 -- Description:  Grants a user permission to read the SQL Server error log
 --               and manage SQL Server Agent jobs.
 --               Replace [YOUR_USER_NAME] with the desired login.
