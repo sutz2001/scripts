@@ -1,0 +1,13 @@
+---
+description: Markitdown CLI — Office/PDF/HTML nach Markdown
+alwaysApply: true
+---
+
+# Markitdown
+
+**Markitdown** ([microsoft/markitdown](https://github.com/microsoft/markitdown)) ist installiert bzw. verfuegbar und wandelt Office-, PDF- und HTML-Dokumente nach Markdown um.
+
+- **CLI:** `markitdown`
+- **OCR-Plugins** sind aktiviert — bei gescannten PDFs nutzen (z. B. DKB-Belege)
+- **Bevorzuge Markitdown** gegenueber ad-hoc PDF-Textextraktion, wenn Dokumente fuer Analysen nach Markdown konvertiert werden
+- **Keine Secrets** aus konvertierten Bank-PDFs in git committen

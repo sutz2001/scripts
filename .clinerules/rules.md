@@ -33,3 +33,12 @@ Dieses Repository enthaelt kleine, wiederverwendbare Administrationsskripte fuer
 ## Dokumentation
 - Bei neuen oder verschobenen Skripten die Struktur in README.md aktualisieren.
 - Kurz dokumentieren, welche Platzhalter vor Ausfuehrung ersetzt werden muessen.
+
+## Markitdown
+- Markitdown (microsoft/markitdown) ist installiert bzw. verfuegbar fuer Office/PDF/HTML → Markdown.
+- CLI: `markitdown`
+- OCR-Plugins sind aktiviert — bei gescannten PDFs nutzen (z. B. DKB-Belege).
+- Bevorzuge Markitdown gegenueber ad-hoc PDF-Textextraktion, wenn Dokumente fuer Analysen nach Markdown konvertiert werden.
+- Keine Secrets aus konvertierten Bank-PDFs in git committen.
+- Cursor-Regel: `.cursor/rules/markitdown.mdc`
+
